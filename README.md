@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=fff&fontAlign=75&fontAlignY=30&height=200&section=header&text=JoeJuneHyung&fontSize=50&animation=scaleIn&desc=Github👋&descAlign=89&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=fff&fontAlign=75&fontAlignY=30&height=200&section=header&text=Joe%20June%20Hyung&fontSize=50&animation=scaleIn&desc=Github👋&descAlign=89&descSize=30)
 <!--
 **JuneHyung/JuneHyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
