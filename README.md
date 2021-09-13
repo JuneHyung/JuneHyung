@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=fff&fontAlign=75&fontAlignY=30&height=200&section=header&text=Joe%20June%20Hyung&fontSize=50&animation=scaleIn&desc=Github%20👋&descAlign=89&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=fff&fontAlign=75&fontAlignY=30&height=200&section=header&text=Joe%20June%20Hyung&fontSize=50&animation=scaleIn&desc=Github%20👋&descAlign=89&descSize=30&color=auto)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJuneHyung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
