@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SASS&logoColor=white">
 </div>
 <div style="display:flex; flex-direction:row; margin-bottom:8px">
-    <img src="https://img.shields.io/badge/Vue-4FC0BD?style=for-the-badge&logo=Vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=Vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white">
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
 </div>
