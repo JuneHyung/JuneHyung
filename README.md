@@ -6,7 +6,7 @@
 
 ### 👨 About Me
 
-[![img](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/JuneHyung-Joe-aa5ae221254942e5b3bd75c5464bfc07) 
+[![img](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://selective-clave-3fb.notion.site/JuneHyung-Joe-aa5ae221254942e5b3bd75c5464bfc07) 
 
 <div style="display:flex; flex-direction:row; margin-bottom:8px">
 <img src="https://github-readme-stats.vercel.app/api?username=JuneHyung&show_icons=true&theme=vue-dark">
@@ -43,5 +43,4 @@
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=41b883&height=200&section=footer&text=THANK%20YOU&fontSize=40&fontAlign=83&fontAlignY=80&fontColor=fff)
-
 
